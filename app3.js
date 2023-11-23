@@ -145,7 +145,7 @@ alert(course);
 alert(pizza);
 alert(email);
 alert(education);
-alert("work 2.7 :-"+"  "+"▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+alert("work 2.7 :-"+" "+"▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
 
 var console = "<h1>Please Check Console</h1>";
 var textBefore = "";
